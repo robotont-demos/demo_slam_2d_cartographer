@@ -10,6 +10,6 @@
   <include file="$(find demo_slam_cartographer)/launch/cartographer.launch"/>
 
   <!-- Map creation-->
-  <include file="$(find demo_slam)/launch/2d_slam_create_map.launch"/>
+  <include file="$(find demo_slam)/launch/depthimage_to_laserscan.launch"/>
 
 </launch>
