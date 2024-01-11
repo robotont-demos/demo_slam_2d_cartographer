@@ -1,4 +1,4 @@
-# demo_slam_2d_cartographer
+# demo_slam_cartographer
 
 This repository is a ROS package that contains 2D mapping demo showing the capabilities of the Robotont platform create a 2D map of the surrounding using Cartographer method. 
 
